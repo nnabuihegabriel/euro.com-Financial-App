@@ -1,0 +1,84 @@
+body{
+	background-image: url(dollar.jpg);
+	opacity: 10;
+	height: 100%;
+
+
+}
+
+header{
+	background-image: url(steve.jpg);
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	position: absolute;
+	width: 1920px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 72px;
+	line-height: 108px;
+
+	
+
+}
+.account-banner{
+	width: 500px;
+	height: 520px;
+	background: #FFFFFF;
+	color: #000;
+	top: 50%;
+	left: 70%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+	box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.25);
+	border-radius: 5%;
+	text-align: right;
+
+}
+
+h2{
+	position: absolute;
+	width: 947px;
+	height: 10px;
+	top: 100px;
+	float: left;
+	font-family: Poppins;
+	font-weight: 80px;
+	font-size: 96px;
+	line-height: 144px;
+	text-align: left;
+	color: #4F4F4F;
+
+
+}
+
+.account-banner h1{
+		background: #6D8CB7;
+		margin: 1px;
+		padding-top: 10px;
+		padding-left: 10px;	
+		text-align: left;
+		font-size: 20px;
+		top: 30px;
+		border-radius: 2% 2% 0% 2%;
+		color: #000;
+		font-family: Poppins;
+		position: absolute;
+		width: 498px;
+		height: 54px;
+	    left: 0;
+		top: 0;
+
+}
+
+#current-b{
+	box-sizing: 30px;
+	border-right-color: pink;
+
+}
